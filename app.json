@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Khana-app",
+    "slug": "khana-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "",
+    "githubUrl": "https://github.com/ArbabArsalan007/KhanaSabKeLiye.git"
+  },
+  "name": "my-app"
+}
